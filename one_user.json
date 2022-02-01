@@ -1,0 +1,30 @@
+{
+    "subjectKind": "user",
+    "metaType": "member",
+    "directoryAlias": "munib",
+    "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+    "principalName": "munib@cognitivehealthintl.com",
+    "mailAddress": "munib@cognitivehealthintl.com",
+    "origin": "aad",
+    "originId": "e1df17ef-fcd1-4956-bc81-0e3cf428aecd",
+    "displayName": "Munib Ur Rehman",
+    "_links": {
+        "self": {
+            "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+        },
+        "memberships": {
+            "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+        },
+        "membershipState": {
+            "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+        },
+        "storageKey": {
+            "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+        },
+        "avatar": {
+            "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+        }
+    },
+    "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm",
+    "descriptor": "aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+}

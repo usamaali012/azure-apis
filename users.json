@@ -1,0 +1,1195 @@
+{
+    "count": 40,
+    "value": [
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "daniyal",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "daniyal@cognitivehealthintl.com",
+            "mailAddress": "daniyal@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "bc9e6b6a-74c9-452b-b3b4-a5b13334d117",
+            "displayName": "Daniyal Altaf",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy",
+            "descriptor": "aad.MmQ1NWYzNGItZjBlYi03NjBkLWFmMTUtMDZiOTAwMTk1ODUy"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "munib",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "munib@cognitivehealthintl.com",
+            "mailAddress": "munib@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "e1df17ef-fcd1-4956-bc81-0e3cf428aecd",
+            "displayName": "Munib Ur Rehman",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm",
+            "descriptor": "aad.OTNiNmEyMGEtZWQ1NC03MTM0LTg4ZjMtMGMzZWUxYTJiODRm"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "arslan",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "arslan@cognitivehealthintl.com",
+            "mailAddress": "arslan@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "620f4524-972f-4df3-9ccb-2b3e160c7fe6",
+            "displayName": "Arslan Khalid",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4",
+            "descriptor": "aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "fjaved",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "fjaved@cognitivehealthintl.com",
+            "mailAddress": "fjaved@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "a82ba9a2-84b1-465e-b1cf-97d704076b69",
+            "displayName": "Dr. Faisal Javed",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi",
+            "descriptor": "aad.MzdlYjY0ZDYtMzIzNS03MzkyLWFmZTEtMThiNDUwMzY1ZjRi"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "salman",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "salman@cognitivehealthintl.com",
+            "mailAddress": "salman@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "78b275f3-dbd2-4692-b603-2a2c889c89f9",
+            "displayName": "Salman Awan",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4",
+            "descriptor": "aad.OTM0OTljYzMtNmY5Ni03Nzk5LTkxNjYtMTliMWM4NjZlN2M4"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "farid",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "farid@cognitivehealthintl.com",
+            "mailAddress": "farid@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "6b8d0965-20cb-403b-8bcc-9429cf71bdeb",
+            "displayName": "Farid Ullah",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz",
+            "descriptor": "aad.YzNiMTViZjMtMjU5Ny03ZmJlLTlkMDMtMjFiN2M2MzY3NTEz"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "jaffar",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "jaffar@cognitivehealthintl.com",
+            "mailAddress": "jaffar@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "42024a55-a20e-4088-831c-6f9f6290dcd2",
+            "displayName": "Jaffar Ali",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx",
+            "descriptor": "aad.YTYyMzI4Y2UtMWRhNS03ZDlkLTk5NWItMjYxNzUzMjgxZTAx"
+        },
+        {
+            "subjectKind": "user",
+            "domain": "Build",
+            "principalName": "6c56e8e6-4ae9-4f2e-898c-391891f0b242",
+            "mailAddress": "",
+            "origin": "vsts",
+            "originId": "dcca1b99-eb54-4e15-a78e-2ea5cfc8e602",
+            "displayName": "CHI Development Build Service (fnawaz)",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg",
+            "descriptor": "svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjZjNTZlOGU2LTRhZTktNGYyZS04OThjLTM5MTg5MWYwYjI0Mg"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "zain",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "zain@cognitivehealthintl.com",
+            "mailAddress": "zain@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "a1efdafd-9b67-4cb6-a23a-5c6bcd01e7e2",
+            "displayName": "Zain Ul Abideen",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj",
+            "descriptor": "aad.NmM3ZWQ1NzEtY2MxYy03NGZjLWI3YzItMzg1MjUwZWJkNmFj"
+        },
+        {
+            "subjectKind": "user",
+            "domain": "Build",
+            "principalName": "7cc209b3-e1d9-4eef-85f8-76fc5e033805",
+            "mailAddress": "",
+            "origin": "vsts",
+            "originId": "4dd8ebbe-26f6-47b2-b008-3bcf6153d0f7",
+            "displayName": "CHI Research and Operations Build Service (fnawaz)",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ",
+            "descriptor": "svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjdjYzIwOWIzLWUxZDktNGVlZi04NWY4LTc2ZmM1ZTAzMzgwNQ"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "mariam",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "mariam@cognitivehealthintl.com",
+            "mailAddress": "mariam@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "f7adddd0-1bdb-4f40-bfb8-422556426740",
+            "displayName": "Mariam Azam",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw",
+            "descriptor": "aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "maaz",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "maaz@cognitivehealthintl.com",
+            "mailAddress": "maaz@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "0d73b3f9-bf56-43cf-bc2e-8c25ad8f6f91",
+            "displayName": "Maaz Mansoor Qureshi",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3",
+            "descriptor": "aad.NjA4YTRkY2YtNmE4ZC03ZjZkLWJkNDktNDA4NGE0ODk1MTk3"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "hamza",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "hamza@cognitivehealthintl.com",
+            "mailAddress": "hamza@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "ef2c599a-f2e9-473e-af25-4eb23592a6cc",
+            "displayName": "Hamza Mahmood",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz",
+            "descriptor": "aad.MDYwZmI5YmEtODZmZi03ZTFiLWFmNjktNDQ5ZmEyMmJjZWUz"
+        },
+        {
+            "subjectKind": "user",
+            "domain": "Build",
+            "principalName": "bc38691b-e8a3-46f6-a80c-52a3799a0ddb",
+            "mailAddress": "",
+            "origin": "vsts",
+            "originId": "048e6a10-f05f-4a14-8bf7-47fe23c24d72",
+            "displayName": "Dbc38691b-e8a3-46f6-a80c-52a3799a0ddb Build Service (fnawaz)",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg",
+            "descriptor": "svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOmJjMzg2OTFiLWU4YTMtNDZmNi1hODBjLTUyYTM3OTlhMGRkYg"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "mparvaiz",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "mparvaiz@cognitivehealthintl.com",
+            "mailAddress": "mparvaiz@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "43b6ab08-15ba-43a6-b134-174b90b78537",
+            "displayName": "Masood Parvaiz",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm",
+            "descriptor": "aad.YzkzOGQ1ZTctNzc0OS03YmFkLWIyYjgtNGM2MWJmMTc1N2Rm"
+        },
+        {
+            "subjectKind": "user",
+            "domain": "Build",
+            "principalName": "4be9e0e0-9956-4c99-9afc-545380ba8a30",
+            "mailAddress": "",
+            "origin": "vsts",
+            "originId": "5cfb5647-3c1d-479b-9672-4e448868fc41",
+            "displayName": "Project Collection Build Service (fnawaz)",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA",
+            "descriptor": "svc.ODNlNGQ1YjYtZGUwZS00Y2NkLTlhOGYtN2FkZmQ3MmFkNzg3OkJ1aWxkOjRiZTllMGUwLTk5NTYtNGM5OS05YWZjLTU0NTM4MGJhOGEzMA"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "Muhammadali",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "Muhammadali@cognitivehealthintl.com",
+            "mailAddress": "Muhammadali@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "7a102f6e-377c-45ac-9c31-0b30afa89248",
+            "displayName": "Muhammad Ali Raza",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4",
+            "descriptor": "aad.MzU1YmU5YTEtNGRjNC03NTljLTkwMGItNGYzZTNhNGIwZmU4"
+        },
+        {
+            "subjectKind": "user",
+            "domain": "AgentPool",
+            "principalName": "e9ac3c95-59c4-48ba-8e21-4cc1faf803e8",
+            "mailAddress": "",
+            "origin": "vsts",
+            "originId": "f56abfa0-63c4-43c2-9fdb-4fa2a5d501bc",
+            "displayName": "Agent Pool Service (9)",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg",
+            "descriptor": "svc.NGJlOWUwZTAtOTk1Ni00Yzk5LTlhZmMtNTQ1MzgwYmE4YTMwOkFnZW50UG9vbDplOWFjM2M5NS01OWM0LTQ4YmEtOGUyMS00Y2MxZmFmODAzZTg"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "zeeshan",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "zeeshan@cognitivehealthintl.com",
+            "mailAddress": "zeeshan@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "1eb9d90c-b203-4664-8c33-3dbfc612ddf9",
+            "displayName": "Muhammad Zeeshan",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx",
+            "descriptor": "aad.YzRlYjRhZjQtMDJlOC03NzJjLWFiY2MtNTNiY2M0YjZlOGEx"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "khaula",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "khaula@cognitivehealthintl.com",
+            "mailAddress": "khaula@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "5ca5a15c-79b3-4acf-9fcb-67b30ce9da89",
+            "displayName": "Ms Khaula",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh",
+            "descriptor": "aad.MGNiMGM5ZjEtN2IyZC03NGNjLTliNmYtNTRjZjk0MWMzYTBh"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "sara",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "sara@cognitivehealthintl.com",
+            "mailAddress": "sara@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "6b34462f-4f63-4abc-9777-b2896e2c6f5b",
+            "displayName": "Sara Qarab",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm",
+            "descriptor": "aad.ZTBhYWNjZDctNDQ5Yi03MTI1LWIyNTQtNTdmNzkyZjBkMWJm"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "Daud",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "Daud@cognitivehealthintl.com",
+            "mailAddress": "Daud@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "83c3cafb-4f5f-48f3-bd62-96f66bf8f59c",
+            "displayName": "Daud",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2",
+            "descriptor": "aad.ODgzNjJmMjUtNzg0Zi03OWJkLTljYzItNTljMDM3YjRiZjc2"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "usama",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "usama@cognitivehealthintl.com",
+            "mailAddress": "usama@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "f4e2e034-7d78-419b-81b6-d7c08344bc5c",
+            "displayName": "Usama Ali",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi",
+            "descriptor": "aad.NjRhMzkxZjctNDE0Ny03YzA5LWE2MjAtNjhmYWFjOGE5ZDVi"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "junaid",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "junaid@cognitivehealthintl.com",
+            "mailAddress": "junaid@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "255e7911-d377-44bf-9b96-d43fa3e2eb13",
+            "displayName": "Junaid Bashir",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk",
+            "descriptor": "aad.NTZiNzQ2NWUtMjZiYy03ZGQzLWJkNDAtN2Q3M2UyNGU1YjVk"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "aghani",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "aghani@cognitivehealthintl.com",
+            "mailAddress": "aghani@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "cbe8a087-524a-43fa-ad25-5ded7e2415af",
+            "displayName": "Abdul Ghani Khan",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz",
+            "descriptor": "aad.NmMwYzVlNWEtMmFiMi03OGU1LWEzNTgtODdjMTAwZjMxYmEz"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "hassaan",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "hassaan@cognitivehealthintl.com",
+            "mailAddress": "hassaan@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "7528a424-8808-419a-9147-7390564a7d7f",
+            "displayName": "Hassaan Syed",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw",
+            "descriptor": "aad.NTM2YjhmYTgtYmE2NC03YmZjLWE1NzQtOGI1NjU0YzA5NzQw"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "atiq",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "atiq@cognitivehealthintl.com",
+            "mailAddress": "atiq@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "60d4dbc3-b429-47a6-bc61-e5906eb18472",
+            "displayName": "Atiq Ahmed",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1",
+            "descriptor": "aad.NjBmNDNiYjItODQ4OC03ZDEzLTg2NzAtOGQwZDc3YTA3ODY1"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "devops",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "devops@cognitivehealthintl.com",
+            "mailAddress": "devops@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "44ed9910-ac3a-44b6-843e-07d5d4af0589",
+            "displayName": "Dev Ops",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi",
+            "descriptor": "aad.ZDliMDMzMzktNjFjZS03NDBkLWFiNWItOTQ5Y2I5Y2IxOWFi"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "faridullah",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "faridullah@cognitivehealthintl.com",
+            "mailAddress": "faridullah@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "d324ce29-7e1d-4a33-a49c-fbba66695392",
+            "displayName": "Farid ullah",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5",
+            "descriptor": "aad.ZjJlZGQxNWItMDQ5Yy03OTJmLWI2ZjYtOTRmOTFiZDk0ZGY5"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "usman",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "usman@cognitivehealthintl.com",
+            "mailAddress": "usman@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "cabf2764-d73e-41c7-bdf0-8c5c8eda8b91",
+            "displayName": "Muhammad Usman",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3",
+            "descriptor": "aad.MGViZWNiY2EtMjA5Yi03OTJlLTk0ZjctOWViNjgyMzIzYTA3"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "shahzaman",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "shahzaman@cognitivehealthintl.com",
+            "mailAddress": "shahzaman@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "33838212-7c0e-457c-8801-84d6253e43fa",
+            "displayName": "Shah Zaman",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj",
+            "descriptor": "aad.ZmI1NGRjOTctYmU4Ny03YzFhLTgzN2UtYTQ2MmMxOGRjY2Fj"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "hammad",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "hammad@cognitivehealthintl.com",
+            "mailAddress": "hammad@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "48fdc9e1-b794-4486-a95b-5d6f762db732",
+            "displayName": "Hammad Tahir",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw",
+            "descriptor": "aad.YjM2NGM2YTItYTdiNy03MjQ4LThmODYtYjAzOWM2NmUwMjgw"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "zaigham",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "zaigham@cognitivehealthintl.com",
+            "mailAddress": "zaigham@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "bfaa00ff-d317-4279-8a55-1e65ac99f347",
+            "displayName": "Zaigham Naveed",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw",
+            "descriptor": "aad.M2RlZTg0YmEtMDQ4NC03MGRkLWIwZmEtYjgxOWI3YWZhYjAw"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "ahmad",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "ahmad@cognitivehealthintl.com",
+            "mailAddress": "ahmad@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "0549b4a9-19be-4970-831e-2018c60b8c52",
+            "displayName": "Ahmad Hassan",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk",
+            "descriptor": "aad.YzQ1NWJjYTYtMjVmNC03YmE3LTg4YzEtYjhjNmM3NzYzNGNk"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "kashif",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "kashif@cognitivehealthintl.com",
+            "mailAddress": "kashif@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "affb691e-76d1-4e0a-b604-456eca36b6cb",
+            "displayName": "Kashif Mehmood",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2",
+            "descriptor": "aad.OTY0YmE0NGUtNmE2My03ZGM2LWFkN2QtYzg5M2Q1ZGQzMWQ2"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "hamza",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "OIDCONFLICT_UpnReuse_3be52d0d-64a5-6e17-b1c4-dc0ae80ee0b0_hamza@cognitivehealthintl.com",
+            "mailAddress": "hamza@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "943f4d66-9e43-4dcd-ba7b-eb032a985715",
+            "displayName": "Hamza Mahmood",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw",
+            "descriptor": "aad.M2JlNTJkMGQtNjRhNS03ZTE3LWIxYzQtZGMwYWU4MGVlMGIw"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "ahsan",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "ahsan@cognitivehealthintl.com",
+            "mailAddress": "ahsan@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "0923846b-2a9e-4b3c-a0f6-6416db631d86",
+            "displayName": "Ahsan Ahmad",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj",
+            "descriptor": "aad.MDQ1YjUyY2QtYWM5NC03MTNjLWI1MTQtZTliNGEyZTc4ZDBj"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "faizan",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "faizan@cognitivehealthintl.com",
+            "mailAddress": "faizan@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "129374a5-3447-4316-91d9-011a82390da5",
+            "displayName": "Faizan Ahmad",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0",
+            "descriptor": "aad.YTYyNDkxNTctNmRkOC03NzQ1LWFmNzAtZWI0YzNhYjYyYjc0"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "fnawaz",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "fnawaz@cognitivehealthintl.com",
+            "mailAddress": "fnawaz@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "ba2ae3d0-7120-4940-aaac-1f5a88b1e9c0",
+            "displayName": "Faisal Nawaz",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm",
+            "descriptor": "aad.NjJhZDI1MzUtYWJlZi03NDFiLWI0YmItZWQxZjkzOGY0MzRm"
+        },
+        {
+            "subjectKind": "user",
+            "metaType": "member",
+            "directoryAlias": "bilal",
+            "domain": "942a7aa0-6fb4-4eb1-a779-2f31acd8c181",
+            "principalName": "bilal@cognitivehealthintl.com",
+            "mailAddress": "bilal@cognitivehealthintl.com",
+            "origin": "aad",
+            "originId": "a182b93c-e020-4df1-bc22-cd4d33269a52",
+            "displayName": "Muhammad Bilal Liaquat",
+            "_links": {
+                "self": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0"
+                },
+                "memberships": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Memberships/aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0"
+                },
+                "membershipState": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/MembershipStates/aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0"
+                },
+                "storageKey": {
+                    "href": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/StorageKeys/aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0"
+                },
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0"
+                }
+            },
+            "url": "https://vssps.dev.azure.com/fnawaz/_apis/Graph/Users/aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0",
+            "descriptor": "aad.MTA3NjQ3NWUtMjIyZS03M2I2LWIwOTItZjE5MWMzOWU2ZWI0"
+        }
+    ]
+}

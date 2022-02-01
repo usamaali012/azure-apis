@@ -1,0 +1,88 @@
+{
+    "id": 8179,
+    "rev": 1,
+    "fields": {
+        "System.AreaPath": "CHI Development",
+        "System.TeamProject": "CHI Development",
+        "System.IterationPath": "CHI Development\\Sprint040-Jan10",
+        "System.WorkItemType": "Bug",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+            "displayName": "Arslan Khalid",
+            "url": "https://spsprodsin1.vssps.visualstudio.com/A83e4d5b6-de0e-4ccd-9a8f-7adfd72ad787/_apis/Identities/321e1cdf-2415-641a-bd7f-0f92fa1ac458",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+                }
+            },
+            "id": "321e1cdf-2415-641a-bd7f-0f92fa1ac458",
+            "uniqueName": "arslan@cognitivehealthintl.com",
+            "imageUrl": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4",
+            "descriptor": "aad.MzIxZTFjZGYtMjQxNS03NDFhLWJkN2YtMGY5MmZhMWFjNDU4"
+        },
+        "System.CreatedDate": "2022-02-01T09:40:55.943Z",
+        "System.CreatedBy": {
+            "displayName": "Mariam Azam",
+            "url": "https://spsprodsin1.vssps.visualstudio.com/A83e4d5b6-de0e-4ccd-9a8f-7adfd72ad787/_apis/Identities/5117b3d3-aef2-69bc-9c5a-3fbbd130e6b0",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                }
+            },
+            "id": "5117b3d3-aef2-69bc-9c5a-3fbbd130e6b0",
+            "uniqueName": "mariam@cognitivehealthintl.com",
+            "imageUrl": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw",
+            "descriptor": "aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+        },
+        "System.ChangedDate": "2022-02-01T09:40:55.943Z",
+        "System.ChangedBy": {
+            "displayName": "Mariam Azam",
+            "url": "https://spsprodsin1.vssps.visualstudio.com/A83e4d5b6-de0e-4ccd-9a8f-7adfd72ad787/_apis/Identities/5117b3d3-aef2-69bc-9c5a-3fbbd130e6b0",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+                }
+            },
+            "id": "5117b3d3-aef2-69bc-9c5a-3fbbd130e6b0",
+            "uniqueName": "mariam@cognitivehealthintl.com",
+            "imageUrl": "https://dev.azure.com/fnawaz/_apis/GraphProfile/MemberAvatars/aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw",
+            "descriptor": "aad.NTExN2IzZDMtYWVmMi03OWJjLTljNWEtM2ZiYmQxMzBlNmIw"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "In teleconsult appointment, if the added third person does not respond to the call, the ringing ends, however, the doctor screen still shows \"connecting\" status",
+        "Microsoft.VSTS.Common.StateChangeDate": "2022-02-01T09:40:55.943Z",
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.Severity": "3 - Medium",
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Custom.Platform": "Web Application",
+        "Custom.Module": "Calling",
+        "Custom.IssueType": "User Interface",
+        "Microsoft.VSTS.TCM.ReproSteps": "<div><ul><li><span style=\"\">login as chi admin&nbsp;</span> </li><li><span style=\"\">book a teleconsult appointment&nbsp;</span> </li><li><span style=\"\">join the teleconsult appointment as patient</span> </li><li><span style=\"\">start the teleconsult appointment from doctor's end&nbsp;</span> </li><li><span style=\"\">add the third employee/person</span> </li> </ul> </div><div><span style=\"\"><br></span> </div><div><br> </div>",
+        "System.Tags": "Teleconsult"
+    },
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/workItems/8179"
+        },
+        "workItemUpdates": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/workItems/8179/updates"
+        },
+        "workItemRevisions": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/workItems/8179/revisions"
+        },
+        "workItemComments": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/workItems/8179/comments"
+        },
+        "html": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_workitems/edit/8179"
+        },
+        "workItemType": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/workItemTypes/Bug"
+        },
+        "fields": {
+            "href": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/fields"
+        }
+    },
+    "url": "https://dev.azure.com/fnawaz/6c56e8e6-4ae9-4f2e-898c-391891f0b242/_apis/wit/workItems/8179"
+}
